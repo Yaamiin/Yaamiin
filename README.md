@@ -33,7 +33,7 @@
 <p align="center">
     <a href="https://t.me/Somaliprogrammer"> <img src="https://img.shields.io/badge/Captain-Master-ff69b4" /> </a>
 </p>
-<a href="https://t.me/Somaliprogrammer"><img src="https://img.shields.io/badge/𝕸𝖚𝖐𝖊𝖘𝖍%20𝕾𝖔𝖑𝖆𝖓𝖐𝖎-gold?&style=for-the-badge&logo=telegram" width=600px></a></p>
+<a href="https://t.me/Somaliprogrammer"><img src="https://img.shields.io/badge/𝕸𝕽%𝕮𝕬𝕻𝕿𝕬𝕴𝕹-gold?&style=for-the-badge&logo=telegram" width=600px></a></p>
 
 
 #
