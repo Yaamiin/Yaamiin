@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-   <img src="https://telegra.ph/file/210e6338bfbf5feff9926.mp4">
+   <img src="https://telegra.ph/file/85eb5899da07318942ca0.jpg">
 </div>
 <p align="center"> (Open for Hiring)</p>
 
