@@ -1,23 +1,38 @@
-### Hi there 👋
-# I'm abdisamad
+### ʜᴏɪ ᴛʜᴇʀᴇ 👋🔥
 
 <!--
-**captainAbdisamad/captainAbdisamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Itsunknown-12/Itsunknown-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Captain](https://telegra.ph/file/edde3a6ccf5f09dbb191f.jpg)
-# Hi there 👋, I'm 𝐂𝐚𝐩𝐭𝐚𝐢𝐧 𝐘𝐚𝐚𝐦𝐢𝐢𝐧 」🥀 자♡•°
+Here are some ideas to get you started:
 
- Information:
-- 👋 HELLO LET ME INTRODUCE MYSELF : I’m Pratheek..
-- 👀 My Skills : Nothing Sur
-- 🌱 I’m Currently Learning : PYTHON
-- 💞️ 𝙓𝘿 👿
-- 📫 How to reach me : ITS VERY SIMPLE JUST CLICK ON THIS LINK : https://t.me/aboutpratheek
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<p align="center">
+</p>
 
-STATS:  
+- 👀ɪ'ᴍ ꜱᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ ɢɪᴛ & ɢɪᴛʜᴜʙ
+- 😁ᴘʏᴛʜᴏɴ ʟᴏᴠᴇʀ
+- 😏ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-<!---
-PratheekXD/PratheekXD is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Itsunknown-12)
+
+</details
+
+
+## ❣️ ᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴇ [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Timesisnotwaiting) 
+<br>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Itsunknown-12&color=blue&style=flat-square&label=Profile+Views)
+
+<p align="center"><a href="https://github.com/Itsunknown-12"><img src="https://github-readme-stats.vercel.app/api?username=Itsunknown-12&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Itsunknown-12"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsunknown-12&theme=radical&layout=compact"></a></p> 
