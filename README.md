@@ -1,10 +1,10 @@
 <!--
-**Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**captainAbdisamad/captainAbdisamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://telegra.ph/file/210e6338bfbf5feff9926.mp4" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
