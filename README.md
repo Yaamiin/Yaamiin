@@ -28,12 +28,12 @@
 
 <hr>
 
-<p align="center">𝐌𝐚𝐝𝐞 𝐁𝐲</p>
+<p align="center">𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲</p>
 
 <p align="center">
-    <a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
+    <a href="https://t.me/Somaliprogrammer"> <img src="https://img.shields.io/badge/Captain-Master-ff69b4" /> </a>
 </p>
-<a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/𝕸𝖚𝖐𝖊𝖘𝖍%20𝕾𝖔𝖑𝖆𝖓𝖐𝖎-gold?&style=for-the-badge&logo=telegram" width=600px></a></p>
+<a href="https://t.me/Somaliprogrammer"><img src="https://img.shields.io/badge/𝕸𝖚𝖐𝖊𝖘𝖍%20𝕾𝖔𝖑𝖆𝖓𝖐𝖎-gold?&style=for-the-badge&logo=telegram" width=600px></a></p>
 
 
 #
