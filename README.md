@@ -28,11 +28,15 @@
 
 <hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<p align="center">𝐌𝐚𝐝𝐞 𝐁𝐲</p>
+
+<p align="center">
+    <a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
 </p>
+<a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/𝕸𝖚𝖐𝖊𝖘𝖍%20𝕾𝖔𝖑𝖆𝖓𝖐𝖎-gold?&style=for-the-badge&logo=telegram" width=600px></a></p>
+
+
+#
 
 <hr>
 
