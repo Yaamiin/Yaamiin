@@ -48,5 +48,6 @@
 </p>
 
 <hr>
+All that was Fake I'm just copy paster lol😂
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
