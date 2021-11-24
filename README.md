@@ -18,6 +18,26 @@
 
 <hr>
 
+# Things I ❤️
+
+**Languages,**
+
+<a href="https://python.org/">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white">
+</a>
+<a href="https://html5.org/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/Markdown">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</a>
+
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
