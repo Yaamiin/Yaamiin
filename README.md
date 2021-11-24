@@ -78,5 +78,10 @@
 
 <hr>
 All that was Fake I'm just copy paster lol😂
+<details>
+  <summary><b>More about me!</b></summary>
+  <p><a href="https://youtu.be/dQw4w9WgXcQ" title="About Itz-fork">Watch this 3 min video to know about me 😄</a>
+</details>
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
