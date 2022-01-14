@@ -7,7 +7,7 @@
    <img src="https://telegra.ph/file/85eb5899da07318942ca0.jpg">
 </div>
 <p align="center"> (Open for Hiring)</p>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+Yaamiin+GANZ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+Yaamiin+GANZ)](https://git.io/typing-svg)
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
