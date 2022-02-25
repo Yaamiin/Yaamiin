@@ -7,6 +7,16 @@
    <img src="https://telegra.ph/file/85eb5899da07318942ca0.jpg">
 </div>
 <p align="center"> (Open for Hiring)</p>
+
+MY SOCIAL MEDIA :
+
+<a href="https://Instagram.com/falllxv"><img src="https://disk.medi11ndonesia.com/thumbs/1800x1200/news/2020/03/1e2c29c543e1c21f54846e7f3eae7c7e.jpg" alt="alt text" width="20" height="20"></a> 
+<a href="https://wa.me/252612478013?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/abdisamad.omar.50"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a> 
+<a href="https://m.youtube.com/channel/UCl5cSvDpMCnLpxa11cbzsyw"><img src="https://github.com/Yaamiin/Yaamiin/blob/master/img/logo_yt_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+SVG+GANZ)](https://git.io/typing-svg)
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
