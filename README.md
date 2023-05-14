@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <sampA highly skilled and versatile cybersecurity professional with extensive experience in the field, adept at identifying and mitigating security vulnerabilities, and well-versed in the intricate workings of malicious software. Possessing a profound understanding of the dark arts of hacking, including the development of sophisticated malware, and equipped with a comprehensive set of cutting-edge hacking skills. Demonstrates a solid grasp of secure software development practices and possesses a keen awareness of the intricate complexities of network infrastructure and system security. With a strong commitment to protecting sensitive data and ensuring the integrity of digital systems, excels in providing robust security solutions to safeguard against modern cyber threats.
+  <samp>A highly skilled and versatile cybersecurity professional with extensive experience in the field, adept at identifying and mitigating security vulnerabilities, and well-versed in the intricate workings of malicious software. Possessing a profound understanding of the dark arts of hacking, including the development of sophisticated malware, and equipped with a comprehensive set of cutting-edge hacking skills. Demonstrates a solid grasp of secure software development practices and possesses a keen awareness of the intricate complexities of network infrastructure and system security. With a strong commitment to protecting sensitive data and ensuring the integrity of digital systems, excels in providing robust security solutions to safeguard against modern cyber threats.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
